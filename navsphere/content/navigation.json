@@ -6,7 +6,16 @@
       "icon": "Globe",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1761033418474_vkmpzdd0u",
+          "title": "GitHub · Build and ship software on a single, collaborative platform · GitHub",
+          "href": "https://github.com/",
+          "description": "Join the world&#39;s most widely adopted, AI-powered developer platform where millions of developers, businesses, and the largest open source community build software that advances humanity.",
+          "icon": "/assets/favicon_1761033413889.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
